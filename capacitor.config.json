@@ -1,0 +1,8 @@
+{
+  "appId": "com.nexora.ai",
+  "appName": "Nexora AI",
+  "webDir": "dist",
+  "backgroundColor": "#000000",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": true }
+}
